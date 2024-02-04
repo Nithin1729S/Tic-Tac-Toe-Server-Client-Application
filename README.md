@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Client-Server Application
 
-This project is a client-server application designed for playing the game of Tic-Tac-Toe between two players. It utilizes C for the implementation and socket programming for communication between the server and clients. The server is designed to handle two clients concurrently using multithreading.
+This project is a client-server application designed for playing the game of Tic-Tac-Toe between two players. It utilizes C for the implementation and socket programming for communication between the server and clients. The server is designed to handle two clients concurrently using multithreading.This was the course project for my Computer Networking course.
 
 ## Getting Started
 
